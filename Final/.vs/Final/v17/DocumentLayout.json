@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_final\\final\\final\\mechanics\\casinogamebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|solutionrelative:final\\mechanics\\casinogamebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_final\\final\\final\\mechanics\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|solutionrelative:final\\mechanics\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_final\\final\\final\\items\\wrongdicenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|solutionrelative:final\\items\\wrongdicenumberexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_final\\final\\final\\items\\suits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|solutionrelative:final\\items\\suits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_final\\final\\final\\items\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|solutionrelative:final\\items\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_final\\final\\final\\items\\cardvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|solutionrelative:final\\items\\cardvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_final\\final\\final\\items\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|solutionrelative:final\\items\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_final\\final\\final\\data\\isaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|solutionrelative:final\\data\\isaveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_final\\final\\final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|solutionrelative:final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|c:\\users\\admin\\desktop\\konovalova_gun27_final\\final\\final\\final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED829EC8-3D0A-4ECB-8957-989523A10EAD}|Final\\Final.csproj|solutionrelative:final\\final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blackjack.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Mechanics\\Blackjack.cs",
+              "RelativeDocumentMoniker": "Final\\Mechanics\\Blackjack.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Mechanics\\Blackjack.cs",
+              "RelativeToolTip": "Final\\Mechanics\\Blackjack.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wB8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:22:59.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WrongDiceNumberException.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Items\\WrongDiceNumberException.cs",
+              "RelativeDocumentMoniker": "Final\\Items\\WrongDiceNumberException.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Items\\WrongDiceNumberException.cs",
+              "RelativeToolTip": "Final\\Items\\WrongDiceNumberException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:15:11.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Items\\Dice.cs",
+              "RelativeDocumentMoniker": "Final\\Items\\Dice.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Items\\Dice.cs",
+              "RelativeToolTip": "Final\\Items\\Dice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:56:51.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardValue.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Items\\CardValue.cs",
+              "RelativeDocumentMoniker": "Final\\Items\\CardValue.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Items\\CardValue.cs",
+              "RelativeToolTip": "Final\\Items\\CardValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:20:54.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Suits.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Items\\Suits.cs",
+              "RelativeDocumentMoniker": "Final\\Items\\Suits.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Items\\Suits.cs",
+              "RelativeToolTip": "Final\\Items\\Suits.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:17:52.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Items\\Card.cs",
+              "RelativeDocumentMoniker": "Final\\Items\\Card.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Items\\Card.cs",
+              "RelativeToolTip": "Final\\Items\\Card.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T09:42:28.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISaveLoadService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Data\\ISaveLoadService.cs",
+              "RelativeDocumentMoniker": "Final\\Data\\ISaveLoadService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Data\\ISaveLoadService.cs",
+              "RelativeToolTip": "Final\\Data\\ISaveLoadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:50:56.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Program.cs",
+              "RelativeDocumentMoniker": "Final\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Program.cs",
+              "RelativeToolTip": "Final\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:45:37.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CasinoGameBase.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Mechanics\\CasinoGameBase.cs",
+              "RelativeDocumentMoniker": "Final\\Mechanics\\CasinoGameBase.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Mechanics\\CasinoGameBase.cs",
+              "RelativeToolTip": "Final\\Mechanics\\CasinoGameBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:58:28.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Final.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Final.csproj",
+              "RelativeDocumentMoniker": "Final\\Final.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Konovalova_GUN27_Final\\Final\\Final\\Final.csproj",
+              "RelativeToolTip": "Final\\Final.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-28T09:41:59.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

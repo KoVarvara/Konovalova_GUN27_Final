@@ -8,10 +8,13 @@ namespace Final.Data
 {
     public interface ISaveLoadService<T> 
     {
-        void SaveData(T data);
+        void SaveData(T data, string identifier);
 
 
-        void LoadData(string identifier);
+        void LoadData(string identifier)
+        {
+
+        }
        
     }
 }

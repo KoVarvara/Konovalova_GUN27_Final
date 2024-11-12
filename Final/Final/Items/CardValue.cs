@@ -8,15 +8,15 @@ namespace Final.Items
 {
     public enum CardValue
     {
-        Six = 6,
-        Seven = 7,
-        Eight = 8,
-        Nine = 9,
-        Ten = 10,
-        Jack = 10,
-        Queen = 10, //так можно делать?
-        King = 10,
-        Ace = 11,
+        Six = 1,
+        Seven = 2,
+        Eight = 3,
+        Nine = 4,
+        Ten = 5,
+        Jack = 6,
+        Queen = 7, 
+        King = 8,
+        Ace = 9,
 
     }
 }

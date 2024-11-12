@@ -14,10 +14,21 @@ namespace Final.Items
 
         public Dice(int min, int max)
         {
-            var rand = new Random();
+
+          
             _min = min;
             _max = max;
+            var rand = new Random();
             _number = rand.Next(_min, _max);
+
+            //try
+            //{
+            //    int n = Int32.Parse(Console.ReadLine());
+            //}
+            //catch (WrongDiceNumberException exception) when (n > _max)
+            //{
+            //    Console.WriteLine("User number");
+            //}
         }
 
     }
